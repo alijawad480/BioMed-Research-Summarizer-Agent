@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+transformers
+torch
+sentencepiece
+requests
+scikit-learn
+sentence-transformers
+matplotlib
+python-dotenv
+mcp
